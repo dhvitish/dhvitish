@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/dhvitish">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000000&color=00AEEF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Vedant!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000000&color=00AEEF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Dhvit!" alt="Typing SVG" />
   </a>
 </h1>
 
