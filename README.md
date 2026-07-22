@@ -31,10 +31,7 @@
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40">
   </a>
   &nbsp;
-  <a href="https://twitter.com/dhvitish" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40">
-  </a>
-  &nbsp;
+  
   <a href="mailto:dhvitish@outlook.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">
   </a>
